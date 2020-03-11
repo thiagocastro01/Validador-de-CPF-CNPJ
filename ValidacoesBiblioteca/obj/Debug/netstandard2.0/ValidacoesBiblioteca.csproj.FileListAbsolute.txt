@@ -1,0 +1,8 @@
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\bin\Debug\netstandard2.0\ValidacoesBiblioteca.deps.json
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\bin\Debug\netstandard2.0\ValidacoesBiblioteca.dll
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\bin\Debug\netstandard2.0\ValidacoesBiblioteca.pdb
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\obj\Debug\netstandard2.0\ValidacoesBiblioteca.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\obj\Debug\netstandard2.0\ValidacoesBiblioteca.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\obj\Debug\netstandard2.0\ValidacoesBiblioteca.AssemblyInfo.cs
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\obj\Debug\netstandard2.0\ValidacoesBiblioteca.dll
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\ValidacoesBiblioteca\obj\Debug\netstandard2.0\ValidacoesBiblioteca.pdb

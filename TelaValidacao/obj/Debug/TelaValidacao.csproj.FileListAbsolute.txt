@@ -1,0 +1,12 @@
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\bin\Debug\TelaValidacao.exe.config
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\bin\Debug\TelaValidacao.exe
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\bin\Debug\TelaValidacao.pdb
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\bin\Debug\ValidacoesBiblioteca.dll
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\bin\Debug\ValidacoesBiblioteca.pdb
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\obj\Debug\TelaValidacao.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\obj\Debug\TelaValidacao.Form1.resources
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\obj\Debug\TelaValidacao.Properties.Resources.resources
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\obj\Debug\TelaValidacao.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\obj\Debug\TelaValidacao.csproj.CopyComplete
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\obj\Debug\TelaValidacao.exe
+C:\Users\thiag\source\repos\ValidacoesBiblioteca\TelaValidacao\obj\Debug\TelaValidacao.pdb
